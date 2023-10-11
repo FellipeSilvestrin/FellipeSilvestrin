@@ -1,4 +1,4 @@
-Bem-vindo(a) ao perfil do Dev em Dobro FellipeSilvestrin
+Bem-vindo(a) ao perfil de FellipeSilvestrin
 
 <div>
    <a href="https://github.com/FellipeSilvestrin">
